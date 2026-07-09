@@ -40,8 +40,9 @@ cd Library-Management-System-
 
 ## 👥 Contributors
 - Group 8
-  - [Your name] – [role]
-  - [Teammate] – [role]
+  - [MD Shafiur Rahman Ruhin]
+  - [Abul Hayat]
+  - []
 
 ## 📄 License
 This project is for educational purposes.
